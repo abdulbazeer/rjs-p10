@@ -1,22 +1,5 @@
-{
-  "name": "rjs-program10",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://abdulbazeer.github.io/rjs-p10",
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
-    "testcase": "node tests/test.js"
-  }
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "testcase": "node tests/test.js"
 }
