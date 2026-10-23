@@ -1,5 +1,10 @@
-"scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "testcase": "node tests/test.js"
+{
+  "name": "rjs-program10",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "testcase": "node tests/test.js"
+  }
 }
